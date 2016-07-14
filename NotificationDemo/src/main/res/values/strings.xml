@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="notification_title">这是通知的标题</string>
+    <string name="notification_content">这是通知的内容</string>
+</resources>
