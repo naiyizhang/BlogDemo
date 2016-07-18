@@ -1,1 +1,1 @@
-include ':app', ':NotificationDemo'
+include ':app', ':NotificationDemo', ':VectorDemo'
