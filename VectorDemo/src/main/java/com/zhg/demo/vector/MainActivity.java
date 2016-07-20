@@ -28,9 +28,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.id_test_vector).setOnClickListener(v->{
-            Intent intent=new Intent(MainActivity.this,TestVectorActivity.class);
-            startActivity(intent);
+        findViewById(R.id.id_test_vector).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this,TestVectorActivity.class);
+                startActivity(intent);
+            }
         });
     }
 
