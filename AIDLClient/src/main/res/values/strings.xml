@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AIDLClient</string>
+    <string name="tips">server服务被杀死或者服务异常！</string>
+</resources>

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDLClient/AIDLClient.iml" filepath="$PROJECT_DIR$/AIDLClient/AIDLClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIDLServer/AIDLServer.iml" filepath="$PROJECT_DIR$/AIDLServer/AIDLServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActivityTransformAnimator/ActivityTransformAnimator.iml" filepath="$PROJECT_DIR$/ActivityTransformAnimator/ActivityTransformAnimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BlogDemo.iml" filepath="$PROJECT_DIR$/BlogDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotificationDemo/NotificationDemo.iml" filepath="$PROJECT_DIR$/NotificationDemo/NotificationDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/VectorDemo/VectorDemo.iml" filepath="$PROJECT_DIR$/VectorDemo/VectorDemo.iml" />
