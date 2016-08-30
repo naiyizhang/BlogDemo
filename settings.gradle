@@ -1,1 +1,1 @@
-include ':app', ':NotificationDemo', ':VectorDemo', ':ActivityTransformAnimator', ':AIDLServer', ':AIDLClient'
+include ':app', ':NotificationDemo', ':VectorDemo', ':ActivityTransformAnimator', ':AIDLServer', ':AIDLClient', ':StickyLayout'

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ActivityTransformAnimator/ActivityTransformAnimator.iml" filepath="$PROJECT_DIR$/ActivityTransformAnimator/ActivityTransformAnimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BlogDemo.iml" filepath="$PROJECT_DIR$/BlogDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotificationDemo/NotificationDemo.iml" filepath="$PROJECT_DIR$/NotificationDemo/NotificationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyLayout/StickyLayout.iml" filepath="$PROJECT_DIR$/StickyLayout/StickyLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/VectorDemo/VectorDemo.iml" filepath="$PROJECT_DIR$/VectorDemo/VectorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

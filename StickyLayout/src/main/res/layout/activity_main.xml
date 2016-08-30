@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhg.view.stickylayout.view.StickyLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zhg.view.stickylayout.MainActivity">
+    <LinearLayout
+        tools:background="#ff0000"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:id="@id/id_sticky_layout_top_view"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="软件管理"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:layout_height="256dp" />
+    </LinearLayout>
+
+    <com.zhg.view.stickylayout.view.SimpleViewPagerIndicator
+        android:layout_width="match_parent"
+        tools:background="#000000"
+        android:id="@id/id_sticky_layout_indicator"
+        android:layout_height="50dp"></com.zhg.view.stickylayout.view.SimpleViewPagerIndicator>
+
+    <android.support.v4.view.ViewPager
+        android:id="@id/id_sticky_layout_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></android.support.v4.view.ViewPager>
+</com.zhg.view.stickylayout.view.StickyLinearLayout>
